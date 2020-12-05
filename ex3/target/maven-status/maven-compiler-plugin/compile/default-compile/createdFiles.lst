@@ -1,0 +1,14 @@
+padroes\composite\PlacaVideo.class
+padroes\composite\HardDisk.class
+padroes\composite\Exemplo1.class
+padroes\composite\Componente.class
+padroes\composite\Memoria.class
+padroes\composite\ComputadorBasicoBuilder.class
+padroes\composite\ComputadorBuilder.class
+padroes\composite\AceleradorGrafico.class
+padroes\composite\ComputadorDirector.class
+padroes\composite\CPU.class
+padroes\composite\PlacaMae.class
+padroes\composite\ComponenteComposite.class
+padroes\composite\Computador.class
+padroes\composite\ProcessadorGrafico.class
